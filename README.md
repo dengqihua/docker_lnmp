@@ -4,7 +4,7 @@
 
 >docker-composer.yml 文件涉及到项目目录处，需根据自己环境修改
 
-# 包含容器
+## 包含容器
     nginx，php-fpm，mysql，redis，mongodb
     
 ## 构建
